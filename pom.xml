@@ -6,6 +6,6 @@
     <artifactId>MavenWar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <!--Insert your code here-->
-    
+    <packaging>war</packaging>
     
 </project>  
